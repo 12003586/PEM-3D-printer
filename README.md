@@ -1,5 +1,8 @@
 # PEM-3D-printer
 
+## Microcontroller
+- Raspberry pi 4
+
 ## Printers
 De printers die ter beschikking zijn
 - [Original Prusa MINI+ Semi-assembled 3D Printer](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/)
@@ -7,9 +10,9 @@ De printers die ter beschikking zijn
 - [CR-30 (3DPrintMill)](https://www.creality3dofficial.eu/products/cr-30-infinite-z-belt-3d-printer)
 
 ## Bronnen
-[Automated Continuous 3d Printing](https://www.youtube.com/watch?v=NZgjl8W5yrE) </Br>
-[Octoprint](https://github.com/michaelnew/Octoprint-Print-Queue) </Br>
-[Gcode](https://medium.com/swlh/automating-my-3d-printer-81b4f653d4d0) </Br>
+- [Automated Continuous 3d Printing](https://www.youtube.com/watch?v=NZgjl8W5yrE) </Br>
+- [Octoprint](https://github.com/michaelnew/Octoprint-Print-Queue) </Br>
+- [Gcode](https://medium.com/swlh/automating-my-3d-printer-81b4f653d4d0) </Br>
 
 
 ## Auteurs
