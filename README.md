@@ -20,6 +20,7 @@ De printers die ter beschikking zijn
 - [Automated Continuous 3d Printing](https://www.youtube.com/watch?v=NZgjl8W5yrE) </Br>
 - [Octoprint](https://github.com/michaelnew/Octoprint-Print-Queue) </Br>
 - [Gcode](https://medium.com/swlh/automating-my-3d-printer-81b4f653d4d0) </Br>
+- [Prusa MK3S+ Raspberry Pi - Octoprint - Webcam Installation](https://www.youtube.com/watch?v=0FWOMdLVRjg)
 
 
 ## Auteurs
