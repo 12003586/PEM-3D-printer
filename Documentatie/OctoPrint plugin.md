@@ -17,4 +17,7 @@
   - https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails
   - Deze plugin haalt ingebouwde thumbnails uit gcode bestanden
 
+- Continuous print </br>
+  - https://github.com/nukeem/continuousprint
+
 
