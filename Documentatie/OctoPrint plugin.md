@@ -10,7 +10,7 @@
     - https://plugins.octoprint.org/plugins/simpleemergencystop/
 - [ ] Obico
     - Controleer en bedien uw OctoPrint aangesloten printer overal met Obico
-    - https://plugins.octoprint.org/plugins/simpleemergencystop/
+    - https://plugins.octoprint.org/plugins/obico/
 - [ ] FilamentManager
     - Deze OctoPrint plugin helpt bij het beheren van uw filamentspoelen
     - https://plugins.octoprint.org/plugins/filamentmanager/
