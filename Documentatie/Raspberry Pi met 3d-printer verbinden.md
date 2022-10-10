@@ -25,3 +25,4 @@ Dan wordt onderstaand scherm getoond. Links boven op de foto staat dat er nog ge
 
 ## Auteur
 - **Martijn Guilliams** - _CONTRIBUTOR_ - [Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)
+- **Bo Mengels** - _CONTRIBUTOR_ - [Bo Mengels](https://github.com/12003586)
