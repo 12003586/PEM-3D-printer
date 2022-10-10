@@ -1,24 +1,26 @@
 # OctoPrint plugin
 ## Nog te installeren
-- OctoPod / OctoPrint-OctoPod
+- [x] OctoPod / OctoPrint-OctoPod 
     - Deze plugin stuurt onmiddellijk een melding naar uw iOS-apparaten of IFTTT 
     - https://plugins.octoprint.org/plugins/octopod/
-- Simple Emergency Stop
+    - [x] DisplayLayerProgress
+    - https://plugins.octoprint.org/plugins/DisplayLayerProgress/
+- [x] Simple Emergency Stop
     - Een noodstopknop toevoegen aan de navigatiebalk
     - https://plugins.octoprint.org/plugins/simpleemergencystop/
-- Obico
+- [ ] Obico
     - Controleer en bedien uw OctoPrint aangesloten printer overal met Obico
-    - https://plugins.octoprint.org/plugins/simpleemergencystop/
-- FilamentManager
+    - https://plugins.octoprint.org/plugins/obico/
+- [ ] FilamentManager
     - Deze OctoPrint plugin helpt bij het beheren van uw filamentspoelen
     - https://plugins.octoprint.org/plugins/filamentmanager/
-- FileManager
+- [ ] FileManager
     - Een simpel bestandsbeheer voor OctoPrint
     - https://plugins.octoprint.org/plugins/filemanager/
-- OctoPrint-Telegram
+- [ ] OctoPrint-Telegram
     - Een plugin om berichten voor tijdens en na een print via Telegram Messenger te versturen
     - https://plugins.octoprint.org/plugins/telegram/
-- OctoPrint-BedReady
+- [ ] OctoPrint-BedReady
     - Plugin die de camera en opencv gebruikt om te bepalen of het bed overeenkomt met een referentiebeeld dat aangeeft dat het bed vrij is en klaar om een afdruk te starten
     - https://plugins.octoprint.org/plugins/bedready/
 
