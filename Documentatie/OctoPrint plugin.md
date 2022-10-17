@@ -1,5 +1,5 @@
 # OctoPrint plugin
-## Nog te installeren
+## Nuttige plugins
 - [x] OctoPod / OctoPrint-OctoPod 
     - Deze plugin stuurt onmiddellijk een melding naar uw iOS-apparaten of IFTTT 
     - https://plugins.octoprint.org/plugins/octopod/
@@ -8,10 +8,13 @@
 - [x] Simple Emergency Stop
     - Een noodstopknop toevoegen aan de navigatiebalk
     - https://plugins.octoprint.org/plugins/simpleemergencystop/
-- [ ] Obico
+- [x] OctoPrint-PrintTimeGenius
+    - Plugin die de remaining time op een betere en accuratere manier berekent.
+    - https://plugins.octoprint.org/plugins/PrintTimeGenius/
+- [x] Obico
     - Controleer en bedien uw OctoPrint aangesloten printer overal met Obico
     - https://plugins.octoprint.org/plugins/obico/
-- [ ] FilamentManager
+- [x] FilamentManager
     - Deze OctoPrint plugin helpt bij het beheren van uw filamentspoelen
     - https://plugins.octoprint.org/plugins/filamentmanager/
 - [ ] FileManager
@@ -24,6 +27,8 @@
     - Plugin die de camera en opencv gebruikt om te bepalen of het bed overeenkomt met een referentiebeeld dat aangeeft dat het bed vrij is en klaar om een afdruk te starten
     - https://plugins.octoprint.org/plugins/bedready/
 
+- [x] = geïnstalleerd
+- [ ] = te installeren
 
 
 ### Stappenplan om plugin te installeren 
