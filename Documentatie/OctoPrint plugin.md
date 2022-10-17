@@ -18,6 +18,9 @@
 - [x] FilamentManager
     - Deze OctoPrint plugin helpt bij het beheren van uw filamentspoelen
     - https://plugins.octoprint.org/plugins/filamentmanager/
+- [x] Firmware Updater
+    - Hiermee kunt u direct vanuit OctoPrint voorbereide firmware naar uw printer flashen
+    - https://plugins.octoprint.org/plugins/firmwareupdater/
 - [ ] FileManager
     - Een simpel bestandsbeheer voor OctoPrint
     - https://plugins.octoprint.org/plugins/filemanager/
