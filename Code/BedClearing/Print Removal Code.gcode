@@ -1,4 +1,4 @@
-G04 S600; Wait 10 minutes
+G4 P360000; Wait 10 minutes
 G1 X90 Y225 Z20 F3000; Move up and back
 M300 S3520 P200;A7
 M300 S4698.63 P200;D8
