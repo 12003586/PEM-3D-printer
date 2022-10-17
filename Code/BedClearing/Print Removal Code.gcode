@@ -1,0 +1,14 @@
+G04 S600; Wait 10 minutes
+G1 X90 Y225 Z20 F3000; Move up and back
+M300 S3520 P200;A7
+M300 S4698.63 P200;D8
+M300 S5274.04 P200;E8
+M300 S6271.93 P200;G8
+G1 X90 Y225 Z1 F3000; lower
+G1 X90 Y1 Z1 2000; Remove print
+G1 X90 Y30 Z1 8000; shake it
+G1 X90 Y1 Z1 8000; shake it
+G1 X90 Y30 Z1 8000; shake it
+G28 ;Home
+G92 E0 ;Reset Extruder
+G1 Z2.0 F3000 ;Move Z Axis up
