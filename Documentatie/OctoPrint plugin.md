@@ -3,7 +3,8 @@
 - [x] OctoPod / OctoPrint-OctoPod 
     - Deze plugin stuurt onmiddellijk een melding naar uw iOS-apparaten of IFTTT 
     - https://plugins.octoprint.org/plugins/octopod/
-    - [x] DisplayLayerProgress
+- [x] DisplayLayerProgress
+    - Huidige laag-informatie, de voortgang en andere gegevens van een afdruk via M117 commando's naar het printer-display
     - https://plugins.octoprint.org/plugins/DisplayLayerProgress/
 - [x] Simple Emergency Stop
     - Een noodstopknop toevoegen aan de navigatiebalk
@@ -51,5 +52,3 @@
 
 - Continuous print </br>
   - https://github.com/nukeem/continuousprint
-
-
