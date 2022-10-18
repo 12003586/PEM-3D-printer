@@ -1,4 +1,4 @@
-# Raspberry Pi met 3d-printer verbinden [#27](https://github.com/12003586/PEM-3D-printer/issues/27)
+# Firmware updaten [#28](https://github.com/12003586/PEM-3D-printer/issues/28)
 
  Deze [handleiding](https://blog.svenadolph.net/update-prusa-i3-m-k3-s-firmware-from-octo-pi-using-the-octo-print-firmware-updater-plugin/) heb ik gevolgd om de firmware te updaten en ervoor te zorgen dat dit van op afstand mogelijk is.
 
