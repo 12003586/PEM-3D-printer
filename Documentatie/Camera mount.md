@@ -5,7 +5,12 @@
   
 ### Printen van mount
 - https://www.thingiverse.com/thing:3954063
-![image](https://user-images.githubusercontent.com/56915241/193529464-6120e546-3a5d-4924-90fd-fe8a38ac0ac7.png)
+<img src="https://user-images.githubusercontent.com/56915241/193529464-6120e546-3a5d-4924-90fd-fe8a38ac0ac7.png" alt="drawing" width="500"/>
 
 ### Extra
 - Bouten(M3x20) en bijhorenede moeren 
+
+### Eindresultaat 
+<img src="https://user-images.githubusercontent.com/56915241/197502365-309b5b18-9173-4604-b28f-90610bf3fad2.jpg" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/56915241/197501786-761545c4-0127-405e-a188-f4e187e738ae.png" alt="drawing" width="500"/>
+
