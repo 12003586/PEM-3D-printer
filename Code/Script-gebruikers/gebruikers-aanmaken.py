@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "http://raspberrypi.local:80"
+url = "http://raspberrypi.local:80/api/access/users"
 data = {"name":"Python","password":"123456","groups":["studenten"],"permissions":[],"active":'true',"admin":'false'}
 
 
