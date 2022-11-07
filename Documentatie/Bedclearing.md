@@ -39,7 +39,7 @@ De code is [hier](https://github.com/12003586/PEM-3D-printer/blob/main/Code/BedC
 | G1 Z1 F3000;              | Nozzle gaat omlaag                                     |
 
 ## Auteurs
-- **Bo Mengels** - _CONTRIBUTOR_ - [Bo Mengels](https://github.com/12003586)
+- **[Bo Mengels](https://github.com/12003586)** - _CONTRIBUTOR_ - 
 
 
 
