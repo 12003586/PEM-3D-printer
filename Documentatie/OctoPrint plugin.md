@@ -55,3 +55,7 @@
 
 - Continuous print </br>
   - https://github.com/nukeem/continuousprint
+
+## Auteurs
+- [**Gijs Jackers**](https://github.com/GijsJackersPXL) - _CONTRIBUTOR_ - 
+
