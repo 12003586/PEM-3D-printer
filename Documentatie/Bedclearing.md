@@ -36,5 +36,8 @@ De code moet worden uitgevoerd na iedere print en op het einde van de queue. In 
 | G1 Y200 F3000;            | Bed beweegt naar achter                                |
 | G1 Z1 F3000;              | Nozzle gaat omlaag                                     |
 
+## Auteurs
+- **Bo Mengels** - _CONTRIBUTOR_ - [Bo Mengels](https://github.com/12003586)
+
 
 
