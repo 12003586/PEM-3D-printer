@@ -30,4 +30,4 @@ AVR Programmer Type: wiring
 
 
 ## Auteur
-- **Martijn Guilliams** - _CONTRIBUTOR_ - [Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)
+- **[Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)** - _CONTRIBUTOR_ - 
