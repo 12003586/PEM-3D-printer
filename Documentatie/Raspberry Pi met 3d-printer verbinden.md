@@ -26,5 +26,5 @@ Dan wordt onderstaand scherm getoond. Links boven op de foto staat dat er nog ge
 5. Power on de Raspberry Pi, deze zal dan zoeken naar de bootable USB media en daarna het systeem booten vanuit de geconnecteerde USB drive 
 
 ## Auteur
-- **Martijn Guilliams** - _CONTRIBUTOR_ - [Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)
-- **Bo Mengels** - _CONTRIBUTOR_ - [Bo Mengels](https://github.com/12003586)
+- **[Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)** - _CONTRIBUTOR_ - 
+- **[Bo Mengels](https://github.com/12003586)** - _CONTRIBUTOR_ - 
