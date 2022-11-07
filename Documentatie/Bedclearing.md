@@ -12,6 +12,8 @@ De code moet worden uitgevoerd na iedere print en op het einde van de queue. In 
 
 ## Gcode
 
+De code is [hier](https://github.com/12003586/PEM-3D-printer/blob/main/Code/BedClearing/Print%20Removal%20Code%20Prusa%20mk3.gcode) terug te vinden.
+
 |Code                       |  Uitleg                                                |
 |---------------------------|--------------------------------------------------------|
 | G1 Z 210 F3000 ;          | Nozzle gaat omhoog                                     |
