@@ -15,4 +15,6 @@
 <img src="https://user-images.githubusercontent.com/56915241/197501786-761545c4-0127-405e-a188-f4e187e738ae.png" alt="drawing" width="500"/>
 
 ## Auteurs
-- **Gijs Jackers** - _CONTRIBUTOR_ - [Gijs Jackers](https://github.com/GijsJackersPXL)
+- [**Gijs Jackers**](https://github.com/GijsJackersPXL) - _CONTRIBUTOR_ - 
+
+
