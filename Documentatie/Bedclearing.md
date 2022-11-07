@@ -6,6 +6,9 @@ Een bedclearing script is nodig zodat er opeenvolgende prints kunnen worden gepr
 
 De code moet worden uitgevoerd na iedere print en op het einde van de queue. In de plugin van continous print wordt deze code geplaatst.
 
+![bedclearing octoprint](https://user-images.githubusercontent.com/79916496/200277744-76a09bcc-5003-4456-b4dc-ff604bb9cb7f.png)
+
+
 
 ## Gcode
 
