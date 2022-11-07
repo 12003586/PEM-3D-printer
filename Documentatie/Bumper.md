@@ -17,4 +17,5 @@ De bumper is aangepast in Fusion 360
 <img src="https://user-images.githubusercontent.com/56915241/200281965-4f58fb33-3c45-4133-93b0-1cba45a1c89f.png" alt="drawing" width="500"/>
 
 ## Auteurs
-- **Gijs Jackers** - _CONTRIBUTOR_ - [Gijs Jackers](https://github.com/GijsJackersPXL)
+- [**Gijs Jackers**](https://github.com/GijsJackersPXL) - _CONTRIBUTOR_ - 
+
