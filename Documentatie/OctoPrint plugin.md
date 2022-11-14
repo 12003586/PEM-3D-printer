@@ -21,12 +21,12 @@
 - [x] Firmware Updater
     - Hiermee kunt u direct vanuit OctoPrint voorbereide firmware naar uw printer flashen
     - https://plugins.octoprint.org/plugins/firmwareupdater/
-- [ ] FileManager
+- [x] FileManager
     - Een simpel bestandsbeheer voor OctoPrint
     - https://plugins.octoprint.org/plugins/filemanager/
-- [ ] OctoPrint-Telegram
-    - Een plugin om berichten voor tijdens en na een print via Telegram Messenger te versturen
-    - https://plugins.octoprint.org/plugins/telegram/
+- [ ] OctoText
+    - Stuur tekstberichten over veelvoorkomende printergebeurtenissen
+    - https://plugins.octoprint.org/plugins/OctoText/
 - [ ] OctoPrint-BedReady
     - Plugin die de camera en opencv gebruikt om te bepalen of het bed overeenkomt met een referentiebeeld dat aangeeft dat het bed vrij is en klaar om een afdruk te starten
     - https://plugins.octoprint.org/plugins/bedready/
