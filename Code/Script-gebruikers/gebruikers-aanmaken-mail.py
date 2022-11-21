@@ -1,22 +1,29 @@
-# import packages
-# below packages are built-in - no need to install anything new!
-# yupi :)
 import smtplib
-from email.message import EmailMessage
 
-# set your email and password
-# please use App Password
-email_address = "Coping8349@outlook.com"
-email_password = "na7yDLBdi7Qnw5"
+# Server instellingen
+MailServerAdres = "smtp.office365.com"
+MailServerPoort = "587"
+MailServerLogin = "Coping8349@outlook.com"
+MailServerPass = "na7yDLBdi7Qnw5"
+ 
+# Mail bericht
+MailOntvanger = "11901231@student.pxl.be"
+MailZender = "Coping8349@outlook.com"
+MailOnderwerp = "Login OctoPi"
+MailBericht = "Gebruikersnaam: "
+ 
+# Contact  maken met mailserver
+mailserver = smtplib.SMTP(MailServerAdres, MailServerPoort)
+mailserver.starttls() # TLS versleuteling nodig voor Hotmail/Gmail (werkt ook met Hostnet)
+mailserver.login(MailServerLogin, MailServerPass)
+ 
+# Bericht samenstellen
+bericht = 'To:' + MailOntvanger  + '\n' + 'From: ' + MailZender + '\n' + 'Subject:' + MailOnderwerp + '\n\n' + MailBericht + '\n\n'
+ 
+# Mail verzenden
+try:
+  mailserver.sendmail(MailZender, MailOntvanger, bericht)
+  print ("OK: email verzonden")
+except SMTPException:
+  print ("FOUT: kan email niet verzenden!")
 
-# create email
-msg = EmailMessage()
-msg['Subject'] = "Email subject"
-msg['From'] = email_address
-msg['To'] = "11901231@student.pxl.be"
-msg.set_content("This is eamil message")
-
-# send email
-with smtplib.SMTP_SSL('smtp.office365.com', 465) as smtp:
-    smtp.login(email_address, email_password)
-    smtp.send_message(msg)
