@@ -4,16 +4,24 @@
 Om een bestand in de Conitnous print queue te plaatsen moeten deze stappen gevolgd worden.
 
 - Stap 1
-    Ga naar het tabblad van conitnous print
+    Ga naar het tabblad van conitnous print </br>
+    
+![coninousprint_1](https://user-images.githubusercontent.com/79916496/204254929-894f9e62-b42e-48f3-9f69-99bfa25101eb.png)
 
 - Stap 2
-    Voeg het bestand toe aan octoprint 
+    Voeg het bestand toe aan octoprint </br>
+  
+![CP_2](https://user-images.githubusercontent.com/79916496/204254951-110330ed-7464-41f5-b93e-ebd371acc106.png)
 
 - Stap 3
-    Voeg het bestand dat geprint moet worden toe aan de queue
+    Voeg het bestand dat geprint moet worden toe aan de queue </br>
+    
+![CP_3](https://user-images.githubusercontent.com/79916496/204254970-593132c3-80a6-4a70-9623-f610bbc4099d.png)
 
 - Stap 4
-    Geef de job een naam en save de job
+    Geef de job een naam en save de job </br>
+    
+![CP_4](https://user-images.githubusercontent.com/79916496/204255006-3827da1c-3aea-4eb6-b9c6-c742dc7404e6.png)
 
 Het bestand staat nu in de queue en zal geprint worden als de voorgaande jobs geprint zijn.
 
