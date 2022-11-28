@@ -1,8 +1,27 @@
-# BedClearing
+# AutoQueue
+
+## Continous Print
+Om een bestand in de Conitnous print queue te plaatsen moeten deze stappen gevolgd worden.
+
+- Stap 1
+    Ga naar het tabblad van conitnous print
+
+- Stap 2
+    Voeg het bestand toe aan octoprint 
+
+- Stap 3
+    Voeg het bestand dat geprint moet worden toe aan de queue
+
+- Stap 4
+    Geef de job een naam en save de job
+
+Het bestand staat nu in de queue en zal geprint worden als de voorgaande jobs geprint zijn.
+
+## BedClearing
 
 Een bedclearing script is nodig zodat er opeenvolgende prints kunnen worden geprint. De code maakt gebruik van de nozzle om de print van het bed te verwijderen.
 
-## OctoPrint
+### OctoPrint
 
 De code moet worden uitgevoerd na iedere print en op het einde van de queue. In de plugin van continous print wordt deze code geplaatst.
 
@@ -10,7 +29,7 @@ De code moet worden uitgevoerd na iedere print en op het einde van de queue. In 
 
 
 
-## Gcode
+### Gcode
 
 De code is [hier](https://github.com/12003586/PEM-3D-printer/blob/main/Code/BedClearing/Print%20Removal%20Code%20Prusa%20mk3.gcode) terug te vinden.
 
