@@ -10,7 +10,7 @@ headers_octoprint={
 data = {"name":"Python123","password":"123456","groups":["studenten"],"permissions":[],"active":'true',"admin":'false'}
 
 payload = json.dumps(data)
-url='http://172.16.104.231:80/api/access/users'
+url='http://octopi.local/api/access/users'
 response =  requests.post(url,data=payload,headers=headers_octoprint)
 temp=response.text
 

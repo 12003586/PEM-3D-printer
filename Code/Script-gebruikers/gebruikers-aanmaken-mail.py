@@ -3,14 +3,14 @@ import smtplib
 # Server instellingen
 MailServerAdres = "smtp.office365.com"
 MailServerPoort = "587"
-MailServerLogin = "Coping8349@outlook.com"
+MailServerLogin = "Octoprint@outlook.be"
 MailServerPass = "na7yDLBdi7Qnw5"
  
 # Mail bericht
 MailOntvanger = "11901231@student.pxl.be"
-MailZender = "Coping8349@outlook.com"
+MailZender = "Octoprint@outlook.be"
 MailOnderwerp = "Login OctoPi"
-MailBericht = "Gebruikersnaam: "
+MailBericht = "Testing: Mail"
  
 # Contact  maken met mailserver
 mailserver = smtplib.SMTP(MailServerAdres, MailServerPoort)

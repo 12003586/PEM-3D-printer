@@ -1,6 +1,7 @@
 import requests
-import json
 import csv
+import time
+
 
 with open("Studenten.csv", 'r') as file:
     csvreader = csv.reader(file)
@@ -20,6 +21,13 @@ for i in range(len(studentenmails)):
     studentNaam = studentNaam.replace(".", "-" )
     
     url='http://octopi.local/api/access/users/' + studentNaam
+    
+    print(url)
+    
     response =  requests.delete(url,headers=headers_octoprint)
     temp=response.text
     print(response)
+    
+    #Enkel nodig wanneer octopi.local gebruikt wordt ipv een ip-adres door dns problemen
+    time.sleep(5) 
+

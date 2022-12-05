@@ -3,6 +3,7 @@ import json
 import smtplib
 import string
 import random
+import time
 
 import csv
 
@@ -23,11 +24,11 @@ characterList += string.punctuation
 # Server instellingen
 MailServerAdres = "smtp.office365.com"
 MailServerPoort = "587"
-MailServerLogin = "Coping8349@outlook.com"
+MailServerLogin = "Octoprint@outlook.be"
 MailServerPass = "na7yDLBdi7Qnw5"
  
 # Mail bericht
-MailZender = "Coping8349@outlook.com"
+MailZender = "Octoprint@outlook.be"
 MailOnderwerp = "Login OctoPi"
 
 headers_octoprint={
@@ -69,7 +70,7 @@ for i in range(len(studentenmails)):
     mailserver.login(MailServerLogin, MailServerPass)
      
     # Bericht samenstellen
-    MailBericht = "Gebruikersnaam: " + studentNaam + "\n\n Wachtwoord: " + studentWachtwoord
+    MailBericht = "Gebruikersnaam: " + studentNaam + "\n\nWachtwoord: " + studentWachtwoord
     bericht = 'To:' + studentenmails[i]  + '\n' + 'From: ' + MailZender + '\n' + 'Subject:' + MailOnderwerp + '\n\n' + MailBericht + '\n\n'
     
     print(response)
@@ -80,4 +81,8 @@ for i in range(len(studentenmails)):
       print ("OK: email verzonden")
     except SMTPException:
       print ("FOUT: kan email niet verzenden!")
+      
+    # 
+    # Enkel nodig wanneer octopi.local gebruikt wordt ipv een ip-adres door dns problemen
+    time.sleep(5) 
 
