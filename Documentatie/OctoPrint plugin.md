@@ -30,6 +30,9 @@
 - [ ] OctoPrint-BedReady
     - Plugin die de camera en opencv gebruikt om te bepalen of het bed overeenkomt met een referentiebeeld dat aangeeft dat het bed vrij is en klaar om een afdruk te starten
     - https://plugins.octoprint.org/plugins/bedready/
+- [x] Print Job History
+    - Houd een logfile bij van alle printjobs die er aangemaakt zijn
+    - https://github.com/OllisGit/OctoPrint-PrintJobHistory/releases/latest/download/master.zip
 
 - [x] = geïnstalleerd
 - [ ] = te installeren

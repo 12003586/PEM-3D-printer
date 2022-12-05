@@ -3,8 +3,8 @@ import json
 
 headers_octoprint={
     'content-type': 'application/json',
-    'Host': '172.16.104.231',
-    'X-Api-Key': '5F11840C599B4F5DABFC06C403238356',
+    'Host': 'octopi.local',
+    'X-Api-Key': '285BD0333BC146CF98AFB9A58CB888D0',
 }
 
 data = {}
