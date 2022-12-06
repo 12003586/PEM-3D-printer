@@ -1,4 +1,5 @@
-# Script gebruikers aanmaken [#30](https://github.com/12003586/PEM-3D-printer/issues/3) (EPIC)
+# Script gebruikers aanmaken [#30](https://github.com/12003586/PEM-3D-printer/issues/3) (EPIC) 
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/Script-gebruikers.py)
 
 Het doel is om een script te maken waarmee users worden aangemaakt op Octoprint zodat in de jobhistory bekeken kan worden wie welke print heeft opgezet.
 
@@ -18,23 +19,29 @@ Deze heb ik hieronder aangemaakt.
 Omdat dit te groot is om in de eerste keer juist te hebben, heb ik dit opgedeeld in enkele kleine gedeeltes. Deze gedeeltes zal ik ook apart bespreken.
 
 ## Gebruikers-aanmaken [#39](https://github.com/12003586/PEM-3D-printer/issues/39)
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-aanmaken.py)
 Het plan was om eerst één gebruiker aan te maken maar omdat ik hier geen concreet voorbeeld had gevonden en ik hier niet heel goed mee bekend ben, heb ik eerst de issue hieronder aangemaakt.
 
 Na onderstaande issue ben ik verdergegaan met deze issue. In deze code heb ik getest hoe ik een gebruiker kan aanmaken
 
 ## Gebruikers-aanmaken-command-test [#40](https://github.com/12003586/PEM-3D-printer/issues/40)
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-aanmaken-command-test.py)
 Om te testen dat een request vervolledigd kan worden heb ik een simpel command getest. Dit command was een "reboot" command. Nu dat ik weet dat dit commando geen fout of probleem geeft kan ik andere commands testen.
 
 ## Gebruikers-aanmaken-mail [#41](https://github.com/12003586/PEM-3D-printer/issues/41)
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-aanmaken-mail.py)
 Deze code test het het systeem dat een mail stuurt naar de leerling met de gebruikersnaam en wachtwoord. Hier test ik dus ook al om inhoud in de mail te zetten.
 
 ## Gebruikers-aanmaken-wachtwoord-genereren [#42](https://github.com/12003586/PEM-3D-printer/issues/42)
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-aanmaken-wachtwoord-genereren.py)
 Deze code zorgt ervoor dat er een random wachtwoord gegenereerd wordt zodat de gebruiker goed beveiligd wordt.
 
 ## Gebruikers-aanmaken-csv [#44](https://github.com/12003586/PEM-3D-printer/issues/44)
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-aanmaken-csv.py)
 Om gebruikers aan te maken werd er door list gegaan met leerlingen. Om dit te vereenvoudigen worden de leerlingen uit een csv gehaald. Zo kan een leerkracht de leerlingen van uit blackboard direct in een csv zetten zonder echt iets aan de code moeten aan te passen.
 
 ## Gebruikers-verwijderen [#45](https://github.com/12003586/PEM-3D-printer/issues/45)
+[(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-verwijderen.py)
 Op het einde van het jaar kunnen de leerlingen in bulk verwijdert worden.
 
 ## Auteurs
