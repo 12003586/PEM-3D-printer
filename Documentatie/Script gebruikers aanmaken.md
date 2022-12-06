@@ -26,10 +26,13 @@ Na onderstaande issue ben ik verdergegaan met deze issue. In deze code heb ik ge
 Om te testen dat een request vervolledigd kan worden heb ik een simpel command getest. Dit command was een "reboot" command. Nu dat ik weet dat dit commando geen fout of probleem geeft kan ik andere commands testen.
 
 ## Gebruikers-aanmaken-mail [#41](https://github.com/12003586/PEM-3D-printer/issues/41)
+Deze code test het het systeem dat een mail stuurt naar de leerling met de gebruikersnaam en wachtwoord. Hier test ik dus ook al om inhoud in de mail te zetten.
 
 ## Gebruikers-aanmaken-wachtwoord-genereren [#42](https://github.com/12003586/PEM-3D-printer/issues/42)
+Deze code zorgt ervoor dat er een random wachtwoord gegenereerd wordt zodat de gebruiker goed beveiligd wordt.
 
 ## Gebruikers-aanmaken-csv [#44](https://github.com/12003586/PEM-3D-printer/issues/44)
+Om gebruikers aan te maken werd er door list gegaan met leerlingen. Om dit te vereenvoudigen worden de leerlingen uit een csv gehaald. Zo kan een leerkracht de leerlingen van uit blackboard direct in een csv zetten zonder echt iets aan de code moeten aan te passen.
 
 ## Gebruikers-verwijderen [#45](https://github.com/12003586/PEM-3D-printer/issues/45)
 
