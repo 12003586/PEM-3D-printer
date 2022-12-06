@@ -35,7 +35,7 @@ Deze code zorgt ervoor dat er een random wachtwoord gegenereerd wordt zodat de g
 Om gebruikers aan te maken werd er door list gegaan met leerlingen. Om dit te vereenvoudigen worden de leerlingen uit een csv gehaald. Zo kan een leerkracht de leerlingen van uit blackboard direct in een csv zetten zonder echt iets aan de code moeten aan te passen.
 
 ## Gebruikers-verwijderen [#45](https://github.com/12003586/PEM-3D-printer/issues/45)
-
+Op het einde van het jaar kunnen de leerlingen in bulk verwijdert worden.
 
 ## Auteurs
 - **Martijn Guilliams** - _CONTRIBUTOR_ - [Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)
