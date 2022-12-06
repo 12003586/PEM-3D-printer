@@ -42,7 +42,7 @@ Om gebruikers aan te maken werd er door list gegaan met leerlingen. Om dit te ve
 
 ## Gebruikers-verwijderen [#45](https://github.com/12003586/PEM-3D-printer/issues/45)
 [(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/gebruikers-verwijderen.py)
-Op het einde van het jaar kunnen de leerlingen in bulk verwijdert worden.
+Op het einde van het jaar kunnen de leerlingen in bulk verwijderd worden.
 
 ## Auteurs
 - **Martijn Guilliams** - _CONTRIBUTOR_ - [Martijn Guilliams](https://github.com/MartijnGuilliamsPXL)
