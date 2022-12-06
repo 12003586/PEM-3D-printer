@@ -18,8 +18,12 @@ Deze heb ik hieronder aangemaakt.
 Omdat dit te groot is om in de eerste keer juist te hebben, heb ik dit opgedeeld in enkele kleine gedeeltes. Deze gedeeltes zal ik ook apart bespreken.
 
 ## Gebruikers-aanmaken [#39](https://github.com/12003586/PEM-3D-printer/issues/39)
+Het plan was om eerst één gebruiker aan te maken maar omdat ik hier geen concreet voorbeeld had gevonden en ik hier niet heel goed mee bekend ben, heb ik eerst de issue hieronder aangemaakt.
+
+Na onderstaande issue ben ik verdergegaan met deze issue. In deze code heb ik getest hoe ik een gebruiker kan aanmaken
 
 ## Gebruikers-aanmaken-command-test [#40](https://github.com/12003586/PEM-3D-printer/issues/40)
+Om te testen dat een request vervolledigd kan worden heb ik een simpel command getest. Dit command was een "reboot" command. Nu dat ik weet dat dit commando geen fout of probleem geeft kan ik andere commands testen.
 
 ## Gebruikers-aanmaken-mail [#41](https://github.com/12003586/PEM-3D-printer/issues/41)
 
