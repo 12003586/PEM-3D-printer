@@ -1,18 +1,18 @@
 # OctoPrint plugin
 ## Nuttige plugins
-- [x] OctoPod / OctoPrint-OctoPod 
+- [ ] OctoPod / OctoPrint-OctoPod 
     - Deze plugin stuurt onmiddellijk een melding naar uw iOS-apparaten of IFTTT 
     - https://plugins.octoprint.org/plugins/octopod/
 - [x] DisplayLayerProgress
     - Huidige laag-informatie, de voortgang en andere gegevens van een afdruk via M117 commando's naar het printer-display
     - https://plugins.octoprint.org/plugins/DisplayLayerProgress/
-- [x] Simple Emergency Stop
+- [ ] Simple Emergency Stop
     - Een noodstopknop toevoegen aan de navigatiebalk
     - https://plugins.octoprint.org/plugins/simpleemergencystop/
 - [x] OctoPrint-PrintTimeGenius
     - Plugin die de remaining time op een betere en accuratere manier berekent.
     - https://plugins.octoprint.org/plugins/PrintTimeGenius/
-- [x] Obico
+- [ ] Obico
     - Controleer en bedien uw OctoPrint aangesloten printer overal met Obico
     - https://plugins.octoprint.org/plugins/obico/
 - [x] FilamentManager
