@@ -10,7 +10,7 @@ Na het volgen van de stappen op deze website [Octoprint - Configuration and inst
 
 De SSH login => username: OctoPi 
 
-Dan wordt onderstaand scherm getoond. Links boven op de foto staat dat er nog geen verbinding is met de 3d-printer. Zorg ervoor dat de usb printerkabel in de usb poort van RPI en printer aasluiting van de 3d-printer steekt. Hierna kan er op connect gedrukt worden. </Br>
+Dan wordt onderstaand scherm getoond. Links boven op de foto staat dat er nog geen verbinding is met de 3d-printer. Zorg ervoor dat de usb printerkabel in de usb poort van RPI en printer aansluiting van de 3d-printer steekt. Hierna kan er op connect gedrukt worden. </Br>
 ![image](https://user-images.githubusercontent.com/56915229/192243268-a17fac71-4925-4771-aa13-894883801602.png)
 </Br>
 
