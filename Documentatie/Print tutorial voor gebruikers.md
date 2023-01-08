@@ -20,6 +20,7 @@ Dit is een tutorial voor studenten om van een 3d-bestand naar G-code te gaan en 
 6. Druk op opslaan
 7. Ga naar "printer settings" en dan naar "Custom G-code" <br>
    Zorg ervoor dat u hetzelfde als de linkerkant heeft, dus het geselecteerde van de rechterkant verwijderen.
+   Dit zorgt ervoor de begin lijn of "purge line" niet geprint wordt want dit kan er niet van afgeduwd worden en dit kan dus zorgen voor een verstopping van de hot-end.
 ![image](https://user-images.githubusercontent.com/56915229/211204274-97e37cb8-f3a2-42c5-9721-97d444a9932e.png)
 8. Druk op opslaan, klik rechtsboven op "Simple" en ga dan naar "Plater"
 9. Een STL-file openen <br>
