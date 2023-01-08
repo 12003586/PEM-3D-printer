@@ -1,5 +1,5 @@
 # OctoPrint-Print-Queue
 
-This plugin proves a way to print one object after another. After printing an object it will run a gcode script (that you provide) to clear the print bed, and then will start printing the next object in the queue.
+Deze plugin levert een manier om het ene object na het andere af te drukken. Na het printen van een object zal het een gcode script uitvoeren om het printbed leeg te maken, en zal dan beginnen met het printen van het volgende object in de wachtrij.
 
-This plugin only works if you have some way of automaticaly clearing your print bed. If the print does not successfully clear before starting the next one, all manner of Bad Things are likely to happen.
+Deze plugin werkt alleen als je een manier hebt om het printbed automatisch leeg te maken, hiervoor zal de bumper gebruikt worden.
