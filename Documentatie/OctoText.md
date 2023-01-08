@@ -4,21 +4,17 @@ OctoText zal werken in octoprint en zal meldingen geven bij de ingestelde vereis
 
 ### Instelbare vereisten
 
-> - Webcam snapshots inschakelen.
-> - Gestarte melding afdrukken.
-> - Afdruk gereed melding.
-> - Bestand ontvangen melding, (stuurt geen webcambeeld).
-> - Onherstelbare fout melding.
-> - Afdruk mislukt OF geannuleerd melding.
-> - Afdrukstoringsmeldingen inschakelen
-> - Afdruk annuleren meldingen inschakelen.
-> - Print pauze melding. Kan worden gebruikt voor filament run-out condities.
-> - Print hervat melding.
-> - Krijg periodiek een melding naarmate het printen vordert. Stel het voortgangsinterval hieronder in als u dit inschakelt.
+-	Melding geven bij:
+    - Start van print
+    - Einde van print
+    - Bestand geüpload 
+    - Pauze van de print
+-	Mail sturen wanneer er een error plaatsvind 
+
 
 ### Configuratie email
 
-SMTP gateway: ```smtp.office365.com```
+SMTP gateway: ```smtp.office365.com```<br>
 SMTP Port   : ```587``` 
 
 Username and host address: ```octoprint@outlook.be```
