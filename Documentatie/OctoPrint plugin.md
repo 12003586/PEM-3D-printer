@@ -21,6 +21,11 @@
 - [x] Print Job History
     - Houd een logfile bij van alle printjobs die er aangemaakt zijn
     - https://plugins.octoprint.org/plugins/PrintJobHistory/
+- [x] Slicer Thumbnails
+    - https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails
+    - Deze plugin haalt ingebouwde thumbnails uit gcode bestanden
+- [x] Continuous print
+    - https://github.com/nukeem/continuousprint
 - [ ] OctoPrint-BedReady
     - Plugin die de camera en opencv gebruikt om te bepalen of het bed overeenkomt met een referentiebeeld dat aangeeft dat het bed vrij is en klaar om een afdruk te starten
     - https://plugins.octoprint.org/plugins/bedready/
@@ -33,7 +38,9 @@
 - [ ] OctoPod / OctoPrint-OctoPod 
     - Deze plugin stuurt onmiddellijk een melding naar uw iOS-apparaten of IFTTT 
     - https://plugins.octoprint.org/plugins/octopod/
-   
+- [ ] Exclude Region
+    - Voegt de mogelijkheid toe om afdrukken binnen rechthoekige of cirkelvormige gebieden van het huidige actieve gcodebestand te voorkomen.
+    - https://plugins.octoprint.org/plugins/excluderegion/
 
 - [x] = geïnstalleerd
 - [ ] = te installeren
@@ -49,16 +56,6 @@
 3. Klik daarna op "**+Get More**"
 5. Zoek naar de plugin die je wilt installeren
 7. Als je de plugin heb gevonden die je wilt installeren klik je op "**Install**"
-
-
-
-### Door ons geïnstalleerde plugins
-- Slicer Thumbnails
-  - https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails
-  - Deze plugin haalt ingebouwde thumbnails uit gcode bestanden
-
-- Continuous print </br>
-  - https://github.com/nukeem/continuousprint
 
 ## Auteurs
 - [**Gijs Jackers**](https://github.com/GijsJackersPXL) - _CONTRIBUTOR_ - 
