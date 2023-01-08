@@ -6,7 +6,7 @@ Op de [website](https://www.prusa3d.com/#_ga=2.234599902.1193074351.1663597125-2
 [Octoprint - Configuration and install](https://help.prusa3d.com/article/octoprint-configuration-and-install_2182)
 
 ## Testing [#7](https://github.com/12003586/PEM-3D-printer/issues/7)
-Na het volgen van de stappen op deze website [Octoprint - Configuration and install](https://help.prusa3d.com/article/octoprint-configuration-and-install_2182) om OctoPrint te installeren op de Raspberry PI kan de RPI aangezet worden. Deze start dan op en kan via http://raspberrypi.local of via het ip-adres mee verbonden worden. Wanneer de verbinding gelukt is moet er ingelogd worden. De login is: username: Admin, password: ZBwFARHJ9oD@8Tk4 .
+Na het volgen van de stappen op deze website [Octoprint - Configuration and install](https://help.prusa3d.com/article/octoprint-configuration-and-install_2182) om OctoPrint te installeren op de Raspberry PI kan de RPI aangezet worden. Deze start dan op en kan via http://raspberrypi.local of via het ip-adres mee verbonden worden. Wanneer de verbinding gelukt is moet er ingelogd worden. De login is: username: Eclair4837, password: ZBwFARHJ9oD@8Tk4 .
 
 De SSH login => username: OctoPi 
 
