@@ -1,4 +1,4 @@
-# Script gebruikers aanmaken [#30](https://github.com/12003586/PEM-3D-printer/issues/3) (EPIC) 
+# Script gebruikers aanmaken [#30](https://github.com/12003586/PEM-3D-printer/issues/30) (EPIC) 
 [(Code)](https://github.com/12003586/PEM-3D-printer/blob/main/Code/Script-gebruikers/Script-gebruikers.py)
 
 Het doel is om een script te maken waarmee users worden aangemaakt op Octoprint zodat in de jobhistory bekeken kan worden wie welke print heeft opgezet.
