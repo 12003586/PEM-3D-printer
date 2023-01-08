@@ -10,7 +10,7 @@ with open("Studenten.csv", 'r') as file:
     
 headers_octoprint={
     'content-type': 'application/json',
-    'Host': 'octopi.local',
+    'Host': 'http://octopi.pxl-ea-ict.be:24081',
     'X-Api-Key': '285BD0333BC146CF98AFB9A58CB888D0',
 }
 
@@ -20,7 +20,7 @@ for i in range(len(studentenmails)):
     studentNaam = studentenmails[i].split("@")[0]
     studentNaam = studentNaam.replace(".", "-" )
     
-    url='http://octopi.local/api/access/users/' + studentNaam
+    url='http://octopi.pxl-ea-ict.be:24081/api/access/users/' + studentNaam
     
     print(url)
     

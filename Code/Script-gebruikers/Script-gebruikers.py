@@ -33,7 +33,7 @@ MailOnderwerp = "Login OctoPi"
 
 headers_octoprint={
     'content-type': 'application/json',
-    'Host': 'octopi.local',
+    'Host': 'octopi.pxl-ea-ict.be:24081',
     'X-Api-Key': '285BD0333BC146CF98AFB9A58CB888D0',
 }
 
@@ -60,7 +60,7 @@ for i in range(len(studentenmails)):
 
     data = {"name":studentNaam,"password":studentWachtwoord,"groups":["studenten"],"permissions":[],"active":'true',"admin":'false'}
     payload = json.dumps(data)
-    url='http://octopi.local/api/access/users'
+    url='http://octopi.pxl-ea-ict.be:24081/api/access/users'
     response =  requests.post(url,data=payload,headers=headers_octoprint)
     temp=response.text
     
