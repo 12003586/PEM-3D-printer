@@ -1,20 +1,20 @@
 # PEM-3D-printer
 
-## Microcontroller
-- Raspberry pi 4
-
 ## Printers
-De printers die ter beschikking zijn
+De printers die gebruikt wordt voor dit project is de Prusa i3 MK3S+.
 - [Original Prusa i3 MK3S+ 3D printer](https://www.prusa3d.com/product/original-prusa-i3-mk3s-3d-printer-3/#_ga=2.146748284.935094266.1663576899-527367555.1663576899&_gac=1.188409306.1663576905.CjwKCAjwpqCZBhAbEiwAa7pXeSbolVMmosZsZ1yC8WgFlxBTm93N-8UsI6rxEBotq25Psn3_svmrwRoCc78QAvD_BwE)
 
-Wordt nog besteld
-- [CR-30 (3DPrintMill)](https://www.creality3dofficial.eu/products/cr-30-infinite-z-belt-3d-printer)
+Er werd nog gekeken naar een andere printer maar deze was dit jaar niet meer van toepassing. <br>
+Het zou een Creality CR-30 geworden zijn.
+- [Creality CR-30](https://www.creality.com/products/creality-cr-30-3d-printer)
+
+## Microcontroller
+- De Raspberry pi 4 zal gebruikt worden in dit project om hierop de Octopi server te draaien
 
 ## Camera
-- [Stream Live Video](https://www.tomshardware.com/how-to/stream-live-video-raspberry-pi)
-- [RPI camera](https://github.com/silvanmelchior/RPi_Cam_Web_Interface)
-- [Stream surveillance camera](https://www.youtube.com/watch?v=i9mJzdLYsVo)
-- [IP Camera](https://www.instructables.com/IP-Camera-Using-the-Raspberry-Pi-Zero-Home-Surveil/)
+De camera module zal gebruikt worden om livebeelden te voorzien op de Octopi server. <br>
+Deze camera module is rechtstreeks verbonden met de Raspberry Pi. 
+- [Camera module](https://www.raspberrypi.com/products/camera-module-v2/)
 
 
 ## Bronnen
